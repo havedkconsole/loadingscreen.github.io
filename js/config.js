@@ -27,10 +27,9 @@ Config.enableAnnouncements = false;
  * only works if enableAnnouncements = true
  */
 Config.announceMessages = [
-  "Приятной игры!",
-  "Зови друзей!",
-  "ИЧ гей",
-  "Будем рады видеть вас снова!",
+  "Желаем приятной игры!",
+  "Хотим видеть ваше присутствие",
+  "а?",
 ];
 
 /**
